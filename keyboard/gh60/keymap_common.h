@@ -55,7 +55,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     { KC_##K50, KC_##K51, KC_##K52, KC_NO   , KC_NO   , KC_NO   , KC_##K56, KC_NO   , KC_NO,    KC_NO   , KC_##K5A }, \
                                                                                                                       \
     { KC_##K60, KC_##K61, KC_##K62, KC_##K63, KC_##K64, KC_##K65, KC_##K66, KC_NO   , KC_NO   , KC_NO   , KC_NO    }, \
-    { KC_##K70, KC_##K71, KC_NO   , KC_##K73, KC_##K74, KC_##K75, KC_##K76, KC_##K77, KC_##K78, KC_##K79, KC_##K1A }, \
+    { KC_##K70, KC_##K71, KC_NO   , KC_##K73, KC_##K74, KC_##K75, KC_##K76, KC_##K77, KC_##K78, KC_##K79, KC_##K7A }, \
     { KC_##K80, KC_##K81, KC_##K82, KC_NO   , KC_##K84, KC_##K85, KC_##K86, KC_##K87, KC_##K88, KC_##K89, KC_NO    }, \
     { KC_##K90, KC_##K91, KC_##K92, KC_##K93, KC_NO   , KC_##K95, KC_NO   , KC_##K97, KC_##K98, KC_##K99, KC_##K9A }, \
     { KC_##KA0, KC_##KA1, KC_NO   , KC_##KA3, KC_NO   , KC_##KA5, KC_NO   , KC_##KA7, KC_##KA8, KC_##KA9, KC_NO    }, \
